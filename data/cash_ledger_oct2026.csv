@@ -1,0 +1,61 @@
+Store,EntryDate,Reference,Description,Amount
+S01,2026-10-01,DEP-S01-1001,Daily sales deposit,9894.27
+S01,2026-10-02,CHK 4101,Check 4101 - Summit Janitorial,-5280.19
+S01,2026-10-05,DEP-S01-1005,Daily sales deposit,4022.30
+S01,2026-10-07,CHK 4102,Check 4102 - Granite Peak Tools,-2627.85
+S01,2026-10-07,DEP-S01-1007,Daily sales deposit,12452.92
+S01,2026-10-09,DEP-S01-1009,Daily sales deposit,4528.95
+S01,2026-10-12,CHK 4103,Check 4103 - Teton Fasteners,-3477.69
+S01,2026-10-13,DEP-S01-1013,Daily sales deposit,5225.97
+S01,2026-10-15,CHK 4104,Check 4104 - Snake River Freight,-3916.33
+S01,2026-10-15,DEP-S01-1015,Daily sales deposit,5258.55
+S01,2026-10-19,DEP-S01-1019,Daily sales deposit,7794.21
+S01,2026-10-20,CHK 4105,Check 4105 - Wasatch Lumber Supply,-2187.43
+S01,2026-10-21,DEP-S01-1021,Daily sales deposit,4146.06
+S01,2026-10-23,CHK 4106,Check 4106 - Canyon Coat Paints,-5683.96
+S01,2026-10-23,DEP-S01-1023,Daily sales deposit,9781.51
+S01,2026-10-27,DEP-S01-1027,Daily sales deposit,6670.07
+S01,2026-10-28,CHK 4107,Check 4107 - Desert Bloom Nursery,-5086.58
+S01,2026-10-29,DEP-S01-1029,Daily sales deposit,11894.35
+S01,2026-10-30,DEP-S01-1030,Daily sales deposit,8096.99
+S01,2026-10-31,FEE-S01-10,"Bank service charge, October",-18.00
+S05,2026-10-01,DEP-S05-1001,Daily sales deposit,3884.57
+S05,2026-10-02,CHK 5301,Check 5301 - Wasatch Lumber Supply,-1468.33
+S05,2026-10-05,DEP-S05-1005,Daily sales deposit,6010.28
+S05,2026-10-07,CHK 5302,Check 5302 - Canyon Coat Paints,-796.87
+S05,2026-10-07,DEP-S05-1007,Daily sales deposit,4859.46
+S05,2026-10-09,DEP-S05-1009,Daily sales deposit,5225.85
+S05,2026-10-12,CHK 5303,Check 5303 - Desert Bloom Nursery,-2328.41
+S05,2026-10-13,DEP-S05-1013,Daily sales deposit,6923.81
+S05,2026-10-15,CHK 5304,Check 5304 - Bonneville Power,-4531.30
+S05,2026-10-15,DEP-S05-1015,Daily sales deposit,3668.80
+S05,2026-10-19,DEP-S05-1019,Daily sales deposit,9277.94
+S05,2026-10-20,CHK 5305,Check 5305 - Summit Janitorial,-2472.51
+S05,2026-10-21,DEP-S05-1021,Daily sales deposit,9230.82
+S05,2026-10-23,CHK 5306,Check 5306 - Granite Peak Tools,-5704.29
+S05,2026-10-23,DEP-S05-1023,Daily sales deposit,9379.84
+S05,2026-10-27,DEP-S05-1027,Daily sales deposit,9781.26
+S05,2026-10-28,CHK 5307,Check 5307 - Teton Fasteners,-4029.47
+S05,2026-10-29,DEP-S05-1029,Daily sales deposit,8381.05
+S05,2026-10-30,DEP-S05-1030,Daily sales deposit,7465.67
+S05,2026-10-31,FEE-S05-10,"Bank service charge, October",-18.00
+S07,2026-10-01,DEP-S07-1001,Daily sales deposit,7273.42
+S07,2026-10-02,CHK 7201,Check 7201 - Desert Bloom Nursery,-1250.28
+S07,2026-10-05,DEP-S07-1005,Daily sales deposit,7655.10
+S07,2026-10-07,CHK 7202,Check 7202 - Bonneville Power,-6766.43
+S07,2026-10-07,DEP-S07-1007,Daily sales deposit,6440.29
+S07,2026-10-09,DEP-S07-1009,Daily sales deposit,3608.40
+S07,2026-10-12,CHK 7203,Check 7203 - Summit Janitorial,-2649.13
+S07,2026-10-13,DEP-S07-1013,Daily sales deposit,10208.41
+S07,2026-10-15,CHK 7204,Check 7204 - Granite Peak Tools,-4115.29
+S07,2026-10-15,DEP-S07-1015,Daily sales deposit,11182.29
+S07,2026-10-19,DEP-S07-1019,Daily sales deposit,5831.04
+S07,2026-10-20,CHK 7205,Check 7205 - Teton Fasteners,-5763.50
+S07,2026-10-21,DEP-S07-1021,Daily sales deposit,12177.56
+S07,2026-10-23,CHK 7206,Check 7206 - Snake River Freight,-7604.28
+S07,2026-10-23,DEP-S07-1023,Daily sales deposit,9991.09
+S07,2026-10-27,DEP-S07-1027,Daily sales deposit,6520.80
+S07,2026-10-28,CHK 7207,Check 7207 - Wasatch Lumber Supply,-1440.70
+S07,2026-10-29,DEP-S07-1029,Daily sales deposit,6860.03
+S07,2026-10-30,DEP-S07-1030,Daily sales deposit,6940.36
+S07,2026-10-31,FEE-S07-10,"Bank service charge, October",-18.00
