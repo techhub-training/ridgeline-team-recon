@@ -19,8 +19,7 @@ Friday) reaches the bank on Monday, November 2, so each has one deposit in trans
 The team workflow, one teammate's commands:
 
 ```
-gh repo clone <owner>/ridgeline-team-recon
-cd ridgeline-team-recon
+# in a codespace on the owner's repository (Code › Codespaces › Create codespace on main)
 git switch -c recon-S07
 # fill in recon/store_S07.csv and recon/notes.md
 git add recon/store_S07.csv recon/notes.md
@@ -31,3 +30,4 @@ gh pr create --fill
 
 A reviewer: `gh pr checkout <number>`, check the numbers, then `gh pr review --approve` and `gh pr merge`.
 Finally, on `main`: `git pull`, `python make_summary.py`, commit and push `recon/summary.csv`.
+
